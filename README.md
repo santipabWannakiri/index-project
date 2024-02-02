@@ -15,4 +15,5 @@ I created this page to make it easier for me to manage all the projects I've wri
 | [aws-access-private-ec2](https://github.com/santipabWannakiri/aws-access-private-ec2) | Demonstration of how to configure to connect to instances without a public IPv4 and how to setup the IAM user, group, policy, and role. | AWS |
 | [spring-boot-measure-execute-time](https://github.com/santipabWannakiri/spring-boot-measure-execute-time) | Demonstration of how to configure to measure the execution time of a transaction, including how to integrate it with the AOP concept. | Spring Boot |
 | [spring-boot-container-cicd](https://github.com/santipabWannakiri/spring-boot-container-cicd) | Demonstration of how to configure and integrate Git and Jenkins to automate pull code and run our application in a container.| Git,Jenkins,Container |
+| [spring-boot-centralized-logging-aop](https://github.com/santipabWannakiri/spring-boot-centralized-logging-aop) | Describe the overall concept of Aspect Oriented Programming(AOP) and how to configure it.| AOP, Spring boot |
 ## Private Project
