@@ -4,7 +4,6 @@ I created this page to make it easier for me to manage all the projects I've wri
 
 ## Public project
 
-### Observability
 | Project | Description | Category |
 | --- | --- | --- |
 | [Overview observability concept](https://github.com/santipabWannakiri/application-observability/edit/main/README.md) | Describe 3 pillars of observability, including pros and cons for each one. | Observability |
