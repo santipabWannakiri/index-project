@@ -18,4 +18,5 @@ I created this page to make it easier for me to manage all the projects I've wri
 | [spring-boot-centralized-logging-aop](https://github.com/santipabWannakiri/spring-boot-centralized-logging-aop) | Describe the overall concept of Aspect Oriented Programming(AOP) and how to configure it.| AOP, Spring boot |
 | [unit-integration-testing](https://github.com/santipabWannakiri/unit-integration-testing) | Describe the type of testing and provide examples of unit and integration testing by using frameworks like Junit, Mockito, MockMVC, and TestRestTemplate. | unit and integration testing, Spring boot|
 | [basic-hibernate](https://github.com/santipabWannakiri/basic-hibernate) | Describe the basic hibernate concept. | hibernate, Spring boot|
+| [spring-security-6-jwt-auth](https://github.com/santipabWannakiri/spring-security-6-jwt-auth) | Demonstration POC project to implement JWT with spring boot security, including Swagger as a document API. | JWT, Spring Security, Swagger|
 ## Private Project
