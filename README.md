@@ -12,6 +12,7 @@ I created this page to make it easier for me to manage all the projects I've wri
 | [spring-boot-otel-context-propagation](https://github.com/santipabWannakiri/spring-boot-otel-context-propagation) | Demonstration of how OTEL can pass through context propagation between two microservices, including describing industry standards for context propagation. | Tracing |
 | [spring-boot-multiple-log-aop](https://github.com/santipabWannakiri/spring-boot-multiple-log-aop) | Describe how to configure Logback to write multiple log files and adopt the AOP concept for collaborative logging, addressing cross-cutting concerns. | Logging |
 | [spring-boot-logstash-aop](https://github.com/santipabWannakiri/spring-boot-logstash-aop) | Demonstration of how to configure the ELK Stack, including how to setup Filebeat Agent and integrate with AWS S3. | Logging, ELK, AWS |
+| [aws-sdk-temporary-credentials](https://github.com/santipabWannakiri/aws-sdk-temporary-credentials) | Demonstration of how to configure AWS SSO and use the AWS CLI to get a temporary credential. | AWS, Spring boot |
 ### AWS
 
 
