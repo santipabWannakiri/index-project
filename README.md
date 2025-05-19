@@ -1,6 +1,6 @@
 # One Page Project Summary
 ## Introduction
-I created this page to make it easier for me to manage all the projects I've written on GitHub. I've spent a lot of time researching and sharing my knowledge, and sometimes it's hard to find a specific project when I want to use or refer to it. With this page, I aim to summarize and index all of my projects. I hope that by sharing these projects, others can benefit from the knowledge I've gained and shared here.
+I created this page to help me better organize and access all the projects I've developed on GitHub. Over time, I've invested a significant amount of effort into researching and sharing my knowledge through these projects. However, it can sometimes be challenging to locate a specific one when I need to reference or reuse it. This page serves as a summary and index of my work. By sharing it, I hope others can also benefit from the insights and experience I've gained along the way.
 
 ## Public project
 
